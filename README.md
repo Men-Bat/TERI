@@ -2,7 +2,7 @@
 
 ## Ten III - Generation 3 - Inference Runtime
 
-**TER I** is the standalone, local-first multimodal inference runtime built for models trained with **TenMiNaTor III** and [**TenMiNaTor III-II**](https://github.com/yoqer/TenII). It is the operational model/runtime line that succeeds the earlier Terminator I prototype and extends it for web, robotics and constrained devices without requiring a shared provider account.
+**TER I** is the standalone, local-first multimodal inference runtime built for models trained with [**TenMiNaTor III**](https://github.com/yoqer/TenIII) and [**TenMiNaTor III-II**](https://github.com/yoqer/TenII). It is the operational model/runtime line that succeeds the earlier Terminator I prototype and extends it for web, robotics and constrained devices without requiring a shared provider account.
 
 TER I is not a generic deep-learning library. Its purpose is to load trained model descriptors and adapters, route inference through local or user-selected remote backends, and orchestrate text, audio, translation, realtime voice and video when the corresponding local gateway or user-owned account is configured.
 
