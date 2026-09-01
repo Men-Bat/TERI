@@ -19,7 +19,7 @@ pip install tenminator
 ### Instalación desde el Código Fuente
 
 ```bash
-git clone https://github.com/tu-usuario/tenminator.git
+git clone https://github.com/Men-Bat/tenminator.git
 cd tenminator
 pip install -e .
 ```
